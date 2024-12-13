@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-!--
 I'm Shiv, a 2nd year Computer Engineering Student at McMaster University!
 
 Welcome to my GitHub page, a place where you'll find the tech side of me :D
