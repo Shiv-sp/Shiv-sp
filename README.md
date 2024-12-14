@@ -2,6 +2,8 @@
 
 I'm Shiv, a 2nd year Computer Engineering Student at McMaster University!
 
+Check out my website: https://shivpatel.vercel.app/
+
 Welcome to my GitHub page, a place where you'll find the tech side of me :D
 
 - 💻 Currently seeking Spring/Fall 2025 internships, interested in: Project Management, Software Engineering and/or Hardware Engineering
