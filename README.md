@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Shiv, a 3rd year Computer Engineering Student at McMaster University!
 
