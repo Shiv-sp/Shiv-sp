@@ -1,12 +1,12 @@
 ## Hey there 👋
 
-I'm Shiv, a 3rd year Computer Engineering Student at McMaster University!
+I'm Shiv, a 3rd-year Computer Engineering Student at McMaster University!
 
 Check out my website: https://shivpatel.vercel.app/
 
 Welcome to my GitHub page, a place where you'll find the tech side of me :D
 
-- 💻 Currently:  On a study term | Seeking Winter 2026 and Spring 2026 Internships!
+- 💻 Currently:  On a study term | Incoming @ AMD (May 2026 - Aug. 2027)
 - 📚 Computer Engineering III @ McMaster
 - 🔭 I’m working on: Java/J2EE!
 - 🌱 I’m currently learning: ML/AI and Quant Finance!
