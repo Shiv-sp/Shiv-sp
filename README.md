@@ -2,7 +2,7 @@
 
 I'm Shiv, a 3rd-year Computer Engineering Student at McMaster University!
 
-Check out my website: https://shivpatel.vercel.app/
+Check out my website: https://shiv-sp.github.io/website/
 
 Welcome to my GitHub page, a place where you'll find the tech side of me :D
 
