@@ -6,7 +6,7 @@ Check out my website: https://shiv-sp.github.io/website/
 
 Welcome to my GitHub page, a place where you'll find the tech side of me :D
 
-- 💻 Currently:  On a study term | Incoming @ AMD (May 2026 - Aug. 2027)
+- 💻 Currently: TPM @ AMD (May 2026 - Aug. 2027)
 - 📚 Computer Engineering III @ McMaster
 - 🌱 I’m currently learning: ML/AI + Verilog
 - 📫 How to reach me: pates302@mcmaster.ca or via LinkedIn: https://www.linkedin.com/in/shivpatel-sp/
